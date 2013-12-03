@@ -1,0 +1,40 @@
+{
+  "name": "millibank-octopus",
+  "description": "an express app for millibank",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Brian Frichette",
+  "homepage": "",
+  "contributors": [
+    "Daniele Guido <gui.daniele@gmail.com> (https://github.com/danieleguido)"
+  ],
+  "bugs": {
+    "url": ""
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "~3.4.6",
+    "require": "~0.5.0",
+    "request": "~2.29.0",
+    "express-hbs": "~0.5.2",
+    "i18n-node": "~2.0.16",
+    "colors": "~0.6.2"
+  },
+  "keywords": [
+    "millibank",
+    "portfolio",
+    "personal portfolio"
+  ],
+  "repository": "",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
